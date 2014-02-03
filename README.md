@@ -1,4 +1,4 @@
 my-web-fonts
 ============
 
-Repository for my favorite web fonts
+I'm collecting here the webfonts I use in my web pages.

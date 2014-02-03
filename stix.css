@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "stix";
+    src: url("stix/STIXGeneral-Regular.woff") format('woff');
+}
+@font-face {
+    font-family: "stix";
+    src: url("stix/STIXGeneral-Bold.woff") format('woff');
+    font-weight: bold;
+}
+@font-face {
+    font-family: "stix";
+    src: url("stix/STIXGeneral-BoldItalic.woff") format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "stix";
+    src: url("stix/STIXGeneral-Italic.woff") format('woff');
+    font-style: italic;
+}
